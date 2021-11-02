@@ -54,5 +54,4 @@ s.dependency 'Yodo1MasMediationTapjoyMax', '4.3.2'
 s.dependency 'Yodo1MasMediationTencentMax', '4.3.2'
 s.dependency 'Yodo1MasMediationUnityAdsMax', '4.3.2'
 s.dependency 'Yodo1MasMediationVungleMax', '4.3.2'
-s.dependency 'Yodo1MasMediationYandexMax', '4.3.2'
 end
